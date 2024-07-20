@@ -1,7 +1,15 @@
-# Tauri + React + Typescript
+# Requester
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Requester é um simples HTTP Client para realizar requisições e conseguir criar uma visualização
+agradável aos usuários que não tem necessidade de saber o real formato das informações obtidas,
+apenas necessitam de uma visualização personalizada e objetiva.
 
-## Recommended IDE Setup
+Tecnologias utilizadas: Tauri + Vite (React + Typescript) + SQLite
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Observações
+
+Esse é um projeto criado com um propósito específico que já foi cumprido.
+
+Contudo vi que ele tem possibilidade de atender a outros propósitos então decidi
+torna-lo open source e também deixa-lo mais genérico de forma a permitir que outros
+devs possam utiliza-lo.
